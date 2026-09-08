@@ -9,3 +9,6 @@ Preparar la estructura inicial de un proyecto utilizando control de versiones.
 ## Herramientas utilizadas - Python - Visual Studio Code - Git - GitHub
 ## Autor 
 Nombre del alumno 
+## Estado del proyecto 
+ 
+Proyecto en etapa inicial.
